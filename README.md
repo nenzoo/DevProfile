@@ -29,7 +29,7 @@ DevProfile est une application web développée avec Laravel dans le cadre du mo
 - **Professeur :** RABHI Ouzayr
 - **Filière :** Ingénierie Logicielle et Cybersécurité (ILCS)
 - **Année :** 2024/2025, Semestre S2
-- **Développeurs :** [Votre nom] et [Nom du partenaire]
+- **Développeurs :** boudzouaou et ilouafi
 
 ## Fonctionnalités
 
